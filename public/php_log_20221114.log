@@ -1,0 +1,17 @@
+[D:\web\framework-4.2.7\framework-4.2.7\app\Controllers\Board.php][view][77][20221114003420]Array
+(
+    [view] => stdClass Object
+        (
+            [bid] => 375
+            [userid] => prog
+            [subject] => ggggggg
+            [content] => gggggg
+            [regdate] => 2022-11-14 15:31:42
+            [modifydate] => 
+            [status] => 1
+            [parent_id] => 
+            [filename] => board/1668407502_4190dc060352d99f3eea.jpg
+        )
+
+)
+
