@@ -222,7 +222,8 @@
 
         
 
-        <a href="<?php echo site_url('/board')?>"> 게시판 </a>
+        <a href="<?php echo site_url('/board')?>"> 게시판 </a><br>
+        <a href="<?php echo site_url('/board')?>"> 오짤 </a>
 
         
 

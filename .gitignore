@@ -2,6 +2,8 @@
 # Operating Specific Junk Files
 #-------------------------
 
+app/Config/Database.php
+
 # OS X
 .DS_Store
 .AppleDouble
